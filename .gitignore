@@ -1,0 +1,7 @@
+/dataset_preprocessed/Liver_mask_val.npy
+/dataset_preprocessed/Liver_mask_train.npy
+/dataset_preprocessed/Liver_mask_test.npy
+/dataset_preprocessed/Liver_image_val.npy
+/dataset_preprocessed/Liver_image_train.npy
+/dataset_preprocessed/Liver_image_test.npy
+/ML_proj/Data/mri.zip
